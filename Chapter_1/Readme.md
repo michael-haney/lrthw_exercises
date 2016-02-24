@@ -16,7 +16,8 @@ I added `puts Bye World` to ex1.rb
 
 > Make your script print only one of the lines.
 
-I erased all of the puts except for the first line.
+I accomplished this by either putting a # character before every line but one or by erasing all of the puts except for the first line.
 
 > Put a # (octothorpe) character at the beginning of a line. What did it do? Try to find out what this character does.
 
+This made what I wrote a comment. This isn't ran in the code and is helpful for others as well as yourself to understand things.
