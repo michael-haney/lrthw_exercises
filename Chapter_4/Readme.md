@@ -17,3 +17,7 @@ In this instance, the float of 4.0 is not necessary, 4 would not change anything
 
 >Write comments above each of the variable assignments.
 Included in ex4.rb
+
+>Rubocop errors
+
+I had to go back in a add a space between # and the first letter of the comment I didn't want the .rb file to read.
