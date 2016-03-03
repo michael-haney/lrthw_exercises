@@ -7,4 +7,4 @@ On https://www.jetbrains.com/ruby/help/keyboard-shortcuts-you-cannot-miss.html, 
 >Did you get any errors from Rubocop?
 
 I did. Rubocop complained about these use of double quotes where single quotes should be applied.
-I made the necessary adjsutments and satisfied Rubocop.
+I made the necessary adjustments and satisfied Rubocop.
