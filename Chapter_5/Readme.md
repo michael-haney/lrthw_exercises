@@ -9,3 +9,13 @@ Edited my_ex5.rb to reflect changes.
 >Try to write some variables that convert the inches and pounds to centimeters and kilograms. Do not just type in the measurements. Work out the math in Ruby.
 
 Edited my_ex5.rb to reflect changes.
+
+>Rubocop output
+
+1 file inspected, no offenses detected
+12:36:17 - INFO - Inspecting Ruby code style: Chapter_5/ex5.rb
+Inspecting 1 file
+.
+
+1 file inspected, no offenses detected
+[1] guard(main)>

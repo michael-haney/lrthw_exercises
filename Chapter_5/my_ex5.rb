@@ -11,7 +11,6 @@ hair = 'Brown'
 inches_to_cm = height * 2.54
 lbs_to_kilograms = weight * 0.45
 
-
 puts "Let's talk about #{name}."
 puts "He's #{inches_to_cm} centimeters tall."
 puts "He's #{lbs_to_kilograms} kilograms heavy."
@@ -21,4 +20,3 @@ puts "His teeth are usually #{teeth} depending on the coffee."
 
 # this line is tricky, try to get it exactly right
 puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
-
