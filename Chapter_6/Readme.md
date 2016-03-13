@@ -21,3 +21,8 @@ You are adding two variables whose values are both strings, hence adding them to
 >What happens when you change the strings to use ' (single-quote) instead of " (double-quote)? Do they still work? Try to guess why.
 
 No, the strings no longer work properly. Interpolation needs double quotes in order to find the original variable its calling for.
+
+>Why do lines 7, 40 and 43 not have nested strings?
+
+Line 7 is calling on the variable 'types_of_people' which is set to the integer '10', which is not a string.
+Lines 40 and 43 do not have nested strings because line 46 is using concatenation to join both variables of strings. 

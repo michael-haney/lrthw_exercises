@@ -3,7 +3,7 @@
 # Setting a variable "types of people" to the value 10.
 types_of_people = 10
 
-# Setting vaariable x to a string including the "types of people" variable, or 10.
+# Setting variable x to a string including the "types of people" variable, or 10.
 x = "There are #{types_of_people} types of people."
 
 # Setting the variable binary to binary.
