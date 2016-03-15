@@ -3,11 +3,11 @@
 # Will put string "Mary had a little lamb."
 puts 'Mary had a little lamb.'
 # Since there are single quotes within the #{}, the line is output as if they weren't there.
-puts 'Its fleece was white as #{'snow'}'
+puts "Its fleece was white as #{'snow'}"
 # Will put string "And everwhere that Mary went."
 puts 'And everywhere that Mary went.'
 # This multiplies the string by 10, thus producing 10 periods.
-puts ''.' * 10 # what'd that do?
+puts '.' * 10 # what'd that do?
 
 # Sets the variable end1 to the string C
 end1 = 'C'
